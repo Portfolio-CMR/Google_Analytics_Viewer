@@ -3,13 +3,22 @@ archetype = "home"
 title = "Google Analytics Viewer"
 +++
 
-## [Self Stats - Google Takeout Data Insights Visualizer](https://github.com/Portfolio-CMR/Self-stats-analytics-visualizer) 📊
+![Analytics Dashboard](/Google_Analytics_Viewer/images/dashboard_example.jpg?width=450px)
 
-This Python package revolutionizes how you interact with your personal Google Analytics data extracted via Google Takeout. By offering eye-catching, interactive visualizations, this tool helps you gain deep insights into your digital footprint with Google services. Whether you're a data enthusiast or simply curious about your online habits, this tool provides valuable perspectives into your personal analytics data.
+## Fully automated end-to-end package to gain insights into your online usage
 
-## Features 🌟
+---------------------------------------------------
 
-- Automated Data Processing: Import and analyze your personal Google Analytics data from Google Takeout.
-- Interactive Visualizations: Engage with your data through beautifully designed graphs and interactive charts using Looker Studio.
-- Insight Discovery: Discover trends, patterns, and more from your personal usage data.
-  User-Friendly Interface: Easy setup and intuitive controls make your data exploration enjoyable and straightforward.
+#### Data Collection, Processing and Insights
+
+- [Data collection](data_collection)
+- [Data cleaning](cleaning)
+- [Imputation](imputation)
+- [Insights and impact](insights)
+
+#### Tech stack
+
+- Python
+- Looker Studio
+
+#### Want to try this package? Visit the [Github page](https://github.com/Portfolio-CMR/Self-stats-analytics-visualizer) (pipeline takes about 5 minutes to run)
