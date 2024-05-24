@@ -21,4 +21,4 @@ title = "Google Analytics Viewer"
 - Python
 - Looker Studio
 
-#### Want to try this package? Visit the [Github page](https://github.com/Portfolio-CMR/Self-stats-analytics-visualizer) (pipeline takes about 5 minutes to run)
+#### Want to try this package on your own data? Visit the [Github page](https://github.com/Portfolio-CMR/Self-stats-analytics-visualizer) (the pipeline takes about 5 minutes to run)
