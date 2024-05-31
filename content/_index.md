@@ -18,8 +18,8 @@ title = "Google Analytics Viewer"
 
 #### Tech stack
 
-- Python
-- Looker Studio
+Python: For automated data collection, cleaning, and analysis.
+Looker Studio: For creating interactive visualizations and dashboards.
 
 #### [Visit my sample dashboard online](https://lookerstudio.google.com/reporting/b9d1af7a-8633-4415-80f1-a5a7cd360776/page/p_7qqjwzhsgd)
 
